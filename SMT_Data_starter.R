@@ -12,7 +12,7 @@
 #   machine or even crash your R session. It is recommended that you filter 
 #   data subsets wisely before calling `collect()`.
 
-data_directory <- '/Users/justinchoi/Downloads/2024_SMT_Data_Challenge/2024_SMT_Data_Challenge' 
+data_directory <- '' 
 
 ###############################################################################
 ################## STARTER CODE: DO NOT MODIFY ################################
